@@ -1,0 +1,27 @@
+body {
+  font: 100% Helvetica, sans-serif; }
+
+p, ul {
+  font-size: 1.5em; }
+
+li {
+  font-size: 1em; }
+
+.nav-tabs a {
+  font-size: 1.3em; }
+
+.jumbotron {
+  background-color: #3498db;
+  color: #000000; }
+
+#headshot {
+  zoom: 30%;
+  border-radius: 50%; }
+
+.grow {
+  transition: all .2s ease-in-out; }
+
+.grow:hover {
+  transform: scale(1.1); }
+
+/*# sourceMappingURL=style.css.map */
